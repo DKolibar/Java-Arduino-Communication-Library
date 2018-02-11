@@ -1,3 +1,7 @@
+# EDITED FOR SCHOOL PROJECT
+Changed the look of AlertBox
+![new design](https://i.imgur.com/x1f857E.png)
+
 # The Java Arduino Communication Library
 
 ![SourceForge Weekly Downloads](https://img.shields.io/badge/downloads-50%2Fweek-green.svg)
