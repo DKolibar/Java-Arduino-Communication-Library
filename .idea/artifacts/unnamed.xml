@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="unnamed">
+    <output-path>$PROJECT_DIR$/classes/artifacts/unnamed</output-path>
+    <root id="archive" name="arduino.jar">
+      <element id="module-output" name="JavaArduinoCommunicationLibrary" />
+    </root>
+  </artifact>
+</component>
