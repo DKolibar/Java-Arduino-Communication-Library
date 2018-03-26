@@ -1,5 +1,5 @@
 # EDITED FOR SCHOOL PROJECT
-Changed the look of AlertBox
+Changed the look of AlertBox<br>
 ![new design](https://i.imgur.com/x1f857E.png)
 
 # The Java Arduino Communication Library
