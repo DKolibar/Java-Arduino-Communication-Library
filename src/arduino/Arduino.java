@@ -38,7 +38,7 @@ public class Arduino {
 			return true;
 		}
 		else {
-			AlertBox alert = new AlertBox(new Dimension(650,272),"Chyba", "Odpojte čítačku alebo skúste iný COM port...");
+			AlertBox alert = new AlertBox("Chyba","Nepodaril sa pripojiť k čítačke", "Odpojte čítačku alebo skúste použiť iný COM port...");
 			alert.display();
 			return false;
 		}
