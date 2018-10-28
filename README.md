@@ -1,6 +1,11 @@
-# EDITED FOR SCHOOL PROJECT
-Changed the look of AlertBox<br>
+![badge](https://img.shields.io/badge/-FORKED-green.svg)
+![badge](https://img.shields.io/badge/-SPŠE-red.svg)
+
+Changed the look of AlertBox:
 ![new design](https://i.imgur.com/x1f857E.png)
+
+---
+#### Original README:
 
 # The Java Arduino Communication Library
 
