@@ -1,7 +1,7 @@
 ![badge](https://img.shields.io/badge/-FORKED-green.svg)
 ![badge](https://img.shields.io/badge/-SPŠE-red.svg)
 
-Changed the look of AlertBox:
+I changed the look of AlertBox to suite design of application for my school project:
 
 ![new design](https://i.imgur.com/x1f857E.png)
 
