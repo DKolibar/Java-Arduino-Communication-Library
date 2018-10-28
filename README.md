@@ -2,6 +2,7 @@
 ![badge](https://img.shields.io/badge/-SPŠE-red.svg)
 
 Changed the look of AlertBox:
+
 ![new design](https://i.imgur.com/x1f857E.png)
 
 ---
